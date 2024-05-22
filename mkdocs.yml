@@ -2,12 +2,15 @@ site_name: PyLadies
 site_url: https://pyladies.com
 theme:
   name: material
+  logo: assets/images/pyladies_logo.png
+  favicon: assets/images/favicon.ico
   features:
     - navigation.instant
     - navigation.instant.progress
   language: en
 plugins:
   - blog
+  - search
 extra:
   alternate:
     - name: English
