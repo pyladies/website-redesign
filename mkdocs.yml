@@ -4,6 +4,9 @@ theme:
   name: material
   logo: assets/images/pyladies_logo.png
   favicon: assets/images/favicon.ico
+  font:
+    text: Roboto
+    code: Roboto Mono
   features:
     - navigation.instant
     - navigation.instant.progress
