@@ -10,6 +10,7 @@ theme:
   features:
     - navigation.instant
     - navigation.instant.progress
+    - navigation.top
   language: en
 plugins:
   - blog
@@ -31,3 +32,15 @@ extra:
     - name: Spanish
       link: /es/
       lang: es
+nav:
+  - Home: index.md
+  - About
+  - Join
+  - Organize
+  - Global org
+  - FAQs
+  - Policies
+  - Resources
+  - Contact
+  - Blog:
+    - blog/index.md
