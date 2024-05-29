@@ -1,0 +1,13 @@
+*.pyc
+*.swp
+**/.DS_Store
+.DS_Store
+.ropeproject
+tmp
+.idea/
+.vscode/
+.mypy_cache/
+.cache
+.pytest_cache
+__pycache__
+.ve
