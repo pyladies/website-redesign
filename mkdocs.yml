@@ -1,0 +1,66 @@
+site_name: PyLadies
+site_url: https://pyladies.com
+theme:
+  name: material
+  logo: assets/images/pyladies_logo.png
+  favicon: assets/images/favicon.ico
+  font:
+    text: Roboto
+    code: Roboto Mono
+  features:
+    - navigation.footer
+    - navigation.indexes
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.path
+    - navigation.sections
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+  language: en
+plugins:
+  - blog
+  - search
+extra:
+  alternate:
+    - name: English
+      link: /en/ 
+      lang: en
+    - name: Deutsch
+      link: /de/
+      lang: de
+    - name: Japanese
+      link: /ja/
+      lang: ja
+    - name: Portuguese
+      link: /pt-BR/
+      lang: pt-BR
+    - name: Spanish
+      link: /es/
+      lang: es
+  social:
+    - icon: fontawesome/brands/slack
+      link: https://slackin.pyladies.com
+    - icon: fontawesome/brands/x-twitter
+      link: https://twitter.com/pyladies
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/pyladies_global/
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/pyladies
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/pyladies-global
+    - icon: fontawesome/brands/mastodon
+      link: https://fosstodon.org/@pyladies
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Join: join.md
+  - Organize: organize.md
+  - Global org: global-org.md
+  - FAQs: faqs.md
+  - Policies: policies.md
+  - Resources: resources.md
+  - Contact: contact.md
+  - Blog:
+    - blog/index.md

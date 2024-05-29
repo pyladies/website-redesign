@@ -1,0 +1,3 @@
+# About
+
+More about PyLadies
