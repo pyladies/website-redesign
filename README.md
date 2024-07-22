@@ -29,6 +29,8 @@ While we're still gathering specification requirements, we're not trying to buil
 We have migrated markdown content and static images (as of May 2024) from the existing [kit.pyladies.com] and [pyladies.com] website into this repo's main branch.
 We do welcome proof of concept prototypes as PRs to an individual branch.
 
+For an example of a prototype, you can check this [PR by @willingc](https://github.com/pyladies/website-redesign/pull/2)
+
 
 [pyladies.com]: https://pyladies.com
 [kit.pyladies.com]: https://kit.pyladies.com
